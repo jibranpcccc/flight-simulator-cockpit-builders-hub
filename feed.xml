@@ -4,10 +4,17 @@
     <title>TrackIR &amp; Flight Simulator Cockpit Builders Hub</title>
     <link>https://flight-simulator-cockpit-builders-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:11:41 GMT</lastBuildDate>
     <atom:link href="https://flight-simulator-cockpit-builders-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-            <item>
+                <item>
+      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/</link>
+      <guid isPermaLink="false">https://flight-simulator-cockpit-builders-hub.netlify.app/#flight-simulator-cockpit-builders-hub-reddit-20260920-1-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:11:41 GMT</pubDate>
+      <description>Newly verified community added to TrackIR &amp; Flight Simulator Cockpit Builders Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
       <link>https://www.reddit.com/r/MachineLearning/</link>
       <guid isPermaLink="false">https://flight-simulator-cockpit-builders-hub.netlify.app/#flight-simulator-cockpit-builders-hub-reddit-20260919-1-2026-09-19</guid>
