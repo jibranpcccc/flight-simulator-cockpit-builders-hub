@@ -4,10 +4,17 @@
     <title>TrackIR &amp; Flight Simulator Cockpit Builders Hub</title>
     <link>https://flight-simulator-cockpit-builders-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 06:40:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:09:53 GMT</lastBuildDate>
     <atom:link href="https://flight-simulator-cockpit-builders-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                <item>
+                                                                    <item>
+      <title>📅 Today's Fresh Pick: PyTorch GitHub Discussions (GitHub)</title>
+      <link>https://discuss.pytorch.org</link>
+      <guid isPermaLink="false">https://flight-simulator-cockpit-builders-hub.netlify.app/#flight-simulator-cockpit-builders-hub-github-20261006-1-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:09:53 GMT</pubDate>
+      <description>Newly verified community added to TrackIR &amp; Flight Simulator Cockpit Builders Hub: Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: LangChain Official Discord (Discord)</title>
       <link>https://github.com/langchain-ai/langchain/discussions</link>
       <guid isPermaLink="false">https://flight-simulator-cockpit-builders-hub.netlify.app/#flight-simulator-cockpit-builders-hub-discord-20261005-1-2026-10-05</guid>
